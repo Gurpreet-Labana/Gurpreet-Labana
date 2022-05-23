@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/tbJw0Bh/customanim.gif)}
+[![MasterHead](https://i.ibb.co/zS4W3s5/customanim.gif)}
 
 <h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
 <h3 align="center">I am fond of taking challenges, always curious to learn something new. I am a tech enthusiast. Looking forward to work in an organization where I can input my creative methodologies and out of the box thinking & be a team player.</h3>
