@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/11873129/screenshots/18313876/media/1d3e3b9e24608d6a1757513ba0474089.gif)}
+[![MasterHead](https://cdn.dribbble.com/users/192847/screenshots/3930313/media/7428b924d05c2c384edb51557e56e6eb.gif)}
 
 
 <h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
