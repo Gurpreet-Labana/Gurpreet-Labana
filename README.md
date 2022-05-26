@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/192847/screenshots/3930313/media/7428b924d05c2c384edb51557e56e6eb.gif)
+![MasterHead](customanim.gif)
 
 
 <h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
