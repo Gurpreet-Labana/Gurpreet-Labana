@@ -13,7 +13,7 @@
 - 💬 Ask me about **DSA, C++, Python, DBMS, OS, DevOps,**
 
 - 📫 How to reach me **rglabana@gmail.com**
-- 👨‍💻 my resume link - **https://rb.gy/cqdwwx**
+- 👨‍💻 my resume link - **https://rb.gy/clm1o**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
