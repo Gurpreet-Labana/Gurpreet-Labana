@@ -1,4 +1,4 @@
-![MasterHead](customanim.gif)
+<!--![MasterHead](customanim.gif) -->
 
 
 <h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
